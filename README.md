@@ -9,8 +9,8 @@ I am motivated and driven. I thrive on challenges and constantly set goals for m
 - :nerd_face: Currently polishing my web development skills.
 - 🌱 Drafting new content almost every month.
 - :speech_balloon: Can help you with web development & programming(OOP).
-- 💞️ I’m looking to collaborate on any project
-- 📫 Reach out to me at : samipak458@gmail.com .
+- 💞️ I’m looking to collaborate on any project.
+- 📫 Reach out to me at : samipak458@gmail.com.
 
 <!---
 samipak458/samipak458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
