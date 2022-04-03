@@ -1,6 +1,6 @@
  #                                                     Hello 👋 I’m Muhammad Samiullah
  
-### About Me
+### About Me,
 
 I am a web developer and an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
 
@@ -8,17 +8,30 @@ I am motivated and driven. I thrive on challenges and constantly set goals for m
 
 - :nerd_face: Currently polishing my web development skills.
 - 🌱 Drafting new content almost every month.
-- :speech_balloon: Can help you with web development & programming(OOP).
+- :speech_balloon: Can help you with web development and programming (OOP & DSA).
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Reach out to me at : samipak458@gmail.com.
 
 
-### Languages and Tools:
+### Tech Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
+<br>
+
+### ⚙️ GitHub Analytics
+
+![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samipak458&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samipak458&layout=compact&theme=dark)](https://github.com/samipak458/github-readme-stats)
+
+
+
 
 <!---
 samipak458/samipak458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
