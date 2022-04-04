@@ -10,7 +10,7 @@ I am motivated and driven. I thrive on challenges and constantly set goals for m
 - 🌱 Drafting new content almost every month.
 - :speech_balloon: Can help you with web development and programming (OOP & DSA).
 - 💞️ I’m looking to collaborate on any project.
-- 📫 Reach out to me at : [LinkedIn](https://www.linkedin.com/in/muhammad-samiullah-2002/) or [Mail](samipak458@gmail.com).
+- 📫 Reach out to me at : [LinkedIn](https://www.linkedin.com/in/muhammad-samiullah-2002/) or samipak458@gmail.com.
 
 
 ## 💻 Tech Stack:
