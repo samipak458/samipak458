@@ -12,6 +12,7 @@ I am motivated and driven. I thrive on challenges and constantly set goals for m
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Reach out to me at : samipak458@gmail.com.
 
+<br>
 
 ## 💻 Tech Stack:
 
