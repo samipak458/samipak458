@@ -13,7 +13,7 @@ I am motivated and driven. I thrive on challenges and constantly set goals for m
 - 📫 Reach out to me at : [LinkedIn](https://www.linkedin.com/in/muhammad-samiullah-2002/) or samipak458@gmail.com.
 
 
-## 💻 Tech Stack:
+## 💻 Technical Skills:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
