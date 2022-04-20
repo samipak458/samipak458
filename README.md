@@ -8,7 +8,7 @@
 ### About Me,
  I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
  
- <h3 align="center"> Tech Enthusiast | Frontend Developer | Open Source Contributor</h3>
+ <h3 align="center"> Tech Enthusiast | Frontend Developer | Open Source</h3>
  
  <h1 align="center">Learn, Grow and Connect</h1>
 
