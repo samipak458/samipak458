@@ -7,15 +7,13 @@
 
 ### About Me,
 
-<h3 align="center"> Tech Enthusiast | Frontend Developer | Open Source</h3>
-
  I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
  
+ <h3 align="center"> Tech Enthusiast | Frontend Developer | Open Source</h3>
  
- 
- <h1 align="center">Let's Learn, Grow and Connect</h1>
+ <div align="center">
+ <h1>Let's Learn, Grow and Connect</h1>
 
-<div align="center">
 <a  href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/samipak458" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:samipak458@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
