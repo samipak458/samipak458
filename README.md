@@ -5,7 +5,8 @@
 <img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/164154367-bde79dd6-2c29-447d-a740-20d52844b459.gif" >
 
 
-#### **About Me,**
+**About Me,**
+<br>
  I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
  
  <h3 align="center"> Tech Enthusiast | Frontend Developer | Open Source</h3>
