@@ -11,7 +11,7 @@
  
  <h3 align="center"> Tech Enthusiast | Frontend Developer | Open Source</h3>
  
- <div align="center">
+ <div>
  <h1>Let's Learn, Grow and Connect</h1>
 
 <a  href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
