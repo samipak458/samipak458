@@ -2,9 +2,8 @@
 
 
 <h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"> Muhammad Samiullah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<div width="40%" align="right">
-<img src="https://user-images.githubusercontent.com/52650290/164154367-bde79dd6-2c29-447d-a740-20d52844b459.gif" >
-</div>
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+
  
 ### About Me,
 
