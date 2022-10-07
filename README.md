@@ -68,10 +68,11 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | :---:        |    :----   |  
 | [My Portfolio Website](https://sami.samimunir2002.repl.co/)     | Portfolio website build using HTML5, CSS3, Bootstrap and JavaScript. 
 | [Blood Support Website](https://blood-support.live/)   | a support platform to bridge the gap between donors and patients, so that they can easily connect with nearby blood donors and blood banks.
-| [Restaurant Website](https://foodies.samimunir2002.repl.co/)     | This is a restaurant website. You can place orders by using add to cart functionality. This website allows you to addcomments, subscribe to newsletter and order your favorite food. With a rich and seamless user experience, the site can help to attract more customers. 
+| [Foodies](https://foodies.samimunir2002.repl.co/)     | This is a restaurant website. You can place orders by using add to cart functionality. This website allows you to addcomments, subscribe to newsletter and order your favorite food. With a rich and seamless user experience, the site can help to attract more customers. 
 | [Candy Store](https://candystore.samimunir2002.repl.co/index.html)     | I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order by using add to cart functionality. While switching pages, you can see a loader. This website allows you all the basal services that website provides.
-| [Fitness Club](https://fitnessclub.samimunir2002.repl.co/)     | The project is built at client end to keep client up-to-date from all the latest information. This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.
-| [Online Note](https://create-online-notes.samimunir2002.repl.co/)     | Note Taking Website App using pure JavaScript. We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could.
+| [Fitness Club](https://fitnessclub.samimunir2002.repl.co/)     | The project is built at client end to keep client up-to-date from all the latest information. This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages. 
+| [Take Online Note](https://green-mushroom-02aac3f00.1.azurestaticapps.net/)   | Note Taking Website App using React.js. We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could.
+| [Simple Library Management](https://delightful-coast-00b51a700.1.azurestaticapps.net/)   | A simple library management project that is easy to use and helps learners understand the basic concept of JS.   
 
   
 # ⚙️ GitHub Analytics
