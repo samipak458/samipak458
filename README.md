@@ -36,7 +36,7 @@ I found three bugs in Microsoft Learn Azure Static Web Apps Documentation. I mak
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
-<br><br>
+<br>
 
 **I love to collaborate on any project especially open source projects.**
 
