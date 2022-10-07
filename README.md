@@ -28,11 +28,11 @@
    
 I'm a front-end developer who is passionate about making open source more accessible, creating technology to elevate
 people, and building community. Some technology I enjoyed working with include Html/CSS, React.js, Node.js, 
-Express.js and MongoDB. Recently, I earned an "Open Sourcer" badge from Microsoft for outstanding contributions to Microsoft Repositories.
+Express.js and MongoDB. Recently, I earned an **"Open Sourcer"** badge from **Microsoft** for outstanding contributions to Microsoft Repositories.
 
-Currently, I'm participating in the first-ever Student Ambassador Bug Bash in which we have to improve the readability and usability of the Azure Static Web Apps content and service overall!
+Currently, I'm participating in the first-ever **Student Ambassador Bug Bash** in which we have to improve the readability and usability of the Azure Static Web Apps content and service overall!
 
-I found three bugs in Microsoft Learn Azure Static Web Apps Documentation. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn documentation and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
+I found **three bugs in Microsoft Learn Azure Static Web Apps Documentation**. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn documentation and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
