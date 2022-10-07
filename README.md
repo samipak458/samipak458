@@ -53,9 +53,10 @@ I found **three bugs in Microsoft Learn Azure Static Web Apps Documentation**. I
  <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+ <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+ ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+ <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 
@@ -67,8 +68,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio](https://sami.samimunir2002.repl.co/)     | Portfolio website build using HTML5, CSS3, Bootstrap and JavaScript. 
-| [Mera Pakistan](https://mera-pakistan.samimunir2002.repl.co/)   | A tourist guide to Pakistan. This website build using HTML5, CSS3 and JavaScript.
-| [Blood Support](https://blood-support.live/)   | a support platform to bridge the gap between donors and patients, so that they can easily connect with nearby blood donors and blood banks.
+| [Mera Pakistan](https://mera-pakistan.samimunir2002.repl.co/)  | A tourist guide to Pakistan. This website build using HTML5, CSS3 and JavaScript.
+| [Blood Support](https://Blood-Support.samimunir2002.repl.co)  | a support platform to bridge the gap between donors and patients, so that they can easily connect with nearby blood donors and blood banks.
 | [Foodies](https://foodies.samimunir2002.repl.co/)     | This is a restaurant website. You can place orders by using add to cart functionality. This website allows you to addcomments, subscribe to newsletter and order your favorite food. With a rich and seamless user experience, the site can help to attract more customers. 
 | [Candy Store](https://candystore.samimunir2002.repl.co/index.html)     | I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order by using add to cart functionality. While switching pages, you can see a loader. This website allows you all the basal services that website provides.
 | [Fitness Club](https://fitnessclub.samimunir2002.repl.co/)     | The project is built at client end to keep client up-to-date from all the latest information. This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages. 
