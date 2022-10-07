@@ -22,9 +22,21 @@
  
  <div align="center">
 
-<h1>🛠 Technical Skills</h1>
+<h1>🛠 About My Tech Stack</h1>
+
+<img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" >
    
-An enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. I have learned web-development and having knowledge of HTML,CSS, Bootstrap & Javascript. I’m currently learning React JS and MySQL.
+I'm a front-end developer who is passionate about making open source more accessible, creating technology to elevate
+people, and building community. Some technology I enjoyed working with include Html/CSS, React.js, Node.js, 
+Express.js and MongoDB. Recently, I earned an "Open Sourcer" badge from Microsoft for outstanding contributions to Microsoft Repositories.
+
+Currently, I'm participating in the first-ever Student Ambassador Bug Bash in which we have to improve the readability and usability of the Azure Static Web Apps content and service overall!
+
+I found three bugs in Microsoft Learn Azure Static Web Apps Documentation. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn documentation and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
+
+> ### “It’s the possibility of having dream come true that makes life so interesting.”
+
+<br><br>
 
 **I love to collaborate on any project especially open source projects.**
 
@@ -38,7 +50,9 @@ An enthusiastic learner who's constantly working to learn new things and improve
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
