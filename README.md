@@ -67,9 +67,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio](https://sami.samimunir2002.repl.co/)     | Portfolio website build using HTML5, CSS3, Bootstrap and JavaScript. 
 | [Mera Pakistan](https://mera-pakistan.samimunir2002.repl.co/)  | A tourist guide to Pakistan. This website build using HTML5, CSS3 and JavaScript.
-| Blood Support  | a support platform to bridge the gap between donors and patients, so that they can easily connect with nearby blood donors and blood banks.
 | [Foodies](https://foodies.samimunir2002.repl.co/)     | This is a restaurant website. You can place orders by using add to cart functionality. This website allows you to addcomments, subscribe to newsletter and order your favorite food. With a rich and seamless user experience, the site can help to attract more customers. 
 | [Candy Store](https://candystore.samimunir2002.repl.co/index.html)     | I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order by using add to cart functionality. While switching pages, you can see a loader. This website allows you all the basal services that website provides.
 | [Fitness Club](https://fitnessclub.samimunir2002.repl.co/)     | The project is built at client end to keep client up-to-date from all the latest information. This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages. 
