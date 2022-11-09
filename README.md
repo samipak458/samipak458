@@ -122,8 +122,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Candy Store : I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order.</p>
     </td>
-    
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
       <h3 align="center">Fitness Club</h3>
         <br />
         <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
@@ -159,8 +158,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       </p>
         <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    
-     <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe</h3>
       <br />
         <a target="_blank" href="https://tictactoe-game.samimunir2002.repl.co/">
@@ -175,8 +173,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses.</p>
     </td>
-  </tr>
-   
+  </tr>   
 </table>
 
   
