@@ -62,18 +62,104 @@ I found **three bugs in Microsoft Learn Azure Static Web Apps Documentation**. I
 
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
-<h1 align="center">💻 Projects</h1>
 
+# Projects 💻
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Foodies</h3>
+        <br />
+        <a target="_blank" href="foodies.samimunir2002.repl.co/">
+            <img src="images/Foodies.png" width="100%" alt="Foodies"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/Foodies-Restaurant" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="foodies.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Html, CSS, BootStrap & Javascript</strong> - Foodies :  A restaurant website. You can place orders and keep track of it.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Mera Pakistan</h3>
+        <br />
+      <a target="_blank" href="https://merapakistan.samimunir2002.repl.co/">
+            <img src="images/Tourist.png" width="100%"  alt="Tourist"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://merapakistan.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Html, CSS & Javascript</strong> - Mera Pakistan : A tourist guide to Pakistan.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Candy Store</h3>
+      <br />
+        <a target="_blank" href="https://candystore.samimunir2002.repl.co/">
+          <img src="images/Candy.png" width="100%" alt="Candy"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/CandyStore" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://candystore.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Candy Store : I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Fitness Club</h3>
+        <br />
+        <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
+          <img src="images/Fitness.png" width="100%" alt="Fitness Club"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/Gym-Website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://fitnessclub.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - Fitness Club : This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.</p>
+    </td>
+  </tr>
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Mera Pakistan](https://mera-pakistan.samimunir2002.repl.co/)  | A tourist guide to Pakistan. This website build using HTML5, CSS3 and JavaScript.
-| [Foodies](https://foodies.samimunir2002.repl.co/)     | This is a restaurant website. You can place orders by using add to cart functionality. This website allows you to addcomments, subscribe to newsletter and order your favorite food. With a rich and seamless user experience, the site can help to attract more customers. 
-| [Candy Store](https://candystore.samimunir2002.repl.co/index.html)     | I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order by using add to cart functionality. While switching pages, you can see a loader. This website allows you all the basal services that website provides.
-| [Fitness Club](https://fitnessclub.samimunir2002.repl.co/)     | The project is built at client end to keep client up-to-date from all the latest information. This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages. 
-| [Take Online Note](https://green-mushroom-02aac3f00.1.azurestaticapps.net/)   | Note Taking Website App using React.js. We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could.
-| [Simple Library Management](https://delightful-coast-00b51a700.1.azurestaticapps.net/)   | A simple library management project that is easy to use and helps learners understand the basic concept of JS. In this project, the user has a provision to add book details like book name, author name, and type through the web page. In addition to this, the user has a provision to search for the available books in the library by the book name or author name, or type. If book details are present in the LocalStorage, the search details are displayed on the web page. User has also a provision to delete a specific book or delete all books.
-| [Tic Tac Toe](https://Tic-Tac-Toe-Game.samimunir2002.repl.co)   | Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses. Traditionally, the game of tic tac toe is played by drawing on paper and I converted this tradition to digital.
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br />
+        <a target="_blank" href="https://sami.samimunir2002.repl.co/">
+          <img src="https://user-images.githubusercontent.com/52650290/200867908-d001e295-b3ef-49cb-b535-d4a166f0a641.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://sami.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+  </tr>
+</table>
 
   
 # ⚙️ GitHub Analytics
