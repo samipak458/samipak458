@@ -72,7 +72,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">Foodies</h3>
         <br />
         <a target="_blank" href="foodies.samimunir2002.repl.co/">
-            <img src="images/Foodies.png" width="100%" alt="Foodies"/>
+            <img src="Images/Foodies.png" width="100%" alt="Foodies"/>
         </a>
         <br />
         <p align="center">
@@ -90,7 +90,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">Mera Pakistan</h3>
         <br />
       <a target="_blank" href="https://merapakistan.samimunir2002.repl.co/">
-            <img src="images/Tourist.png" width="100%"  alt="Tourist"/>
+            <img src="Images/Tourist.png" width="100%"  alt="Tourist"/>
         </a>
         <br />
         <p align="center">
@@ -108,7 +108,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">Candy Store</h3>
       <br />
         <a target="_blank" href="https://candystore.samimunir2002.repl.co/">
-          <img src="images/Candy.png" width="100%" alt="Candy"/>
+          <img src="Images/Candy.png" width="100%" alt="Candy"/>
         </a>
       <br />
         <p align="center">
@@ -126,7 +126,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">Fitness Club</h3>
         <br />
         <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
-          <img src="images/Fitness.png" width="100%" alt="Fitness Club"/>
+          <img src="Images/Fitness.png" width="100%" alt="Fitness Club"/>
         </a>
         <br />
         <p align="center">
