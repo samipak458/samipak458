@@ -159,6 +159,23 @@ I believe in implementing the knowledge which you have. Projects play a major ro
         <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
+ 
+ <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tic Tac Toe</h3>
+      <br />
+        <a target="_blank" href="https://tictactoe-game.samimunir2002.repl.co/">
+          <img src="Images/TicTacToeGame.png" width="100%" alt="Tic Tac Toe"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://tictactoe-game.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses.</p>
+    </td>
 </table>
 
   
