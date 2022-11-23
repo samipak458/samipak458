@@ -38,7 +38,9 @@ I found **three bugs in Microsoft Learn Azure Static Web Apps Documentation**. I
 
 <br>
 
-**I love to collaborate on any project especially open source projects.**
+### I love to collaborate on any project especially open source projects.
+  
+ <br> 
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
