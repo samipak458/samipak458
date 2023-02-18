@@ -32,7 +32,7 @@ Express.js and MongoDB. Recently, I earned an **"Open Sourcer"** badge from **Mi
 
 I participated in the first-ever **Student Ambassador Bug Bash**. I improved the readability and usability of the **Microsoft Learn** Docs and Modules that contain GitHub, C#, and Azure Static Web Apps content and service overall!
 
-I found **5 bugs** in Microsoft Learn Azure Static Web Apps Documentation and **1 bug** each in the Microsoft Learn GitHub and C# module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
+I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn GitHub and C# module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
