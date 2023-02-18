@@ -194,7 +194,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   </div>
 
 # 📈 Contribution Graph  
- [![Muhammad Samiullah's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=samipak458&&theme=xcode)](https://github.com/samipak458)
+ [![Muhammad Samiullah github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samipak458&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  </div>
  
@@ -202,6 +202,12 @@ I believe in implementing the knowledge which you have. Projects play a major ro
  # 🚀 Contributions Featured on Microsoft
 
 https://user-images.githubusercontent.com/52650290/194592069-a598d836-7e29-401b-913d-51746da3f817.mp4
+ 
+
+# 🏆 HacktoberFest 2022 Badges
+ 
+[![An image of @samipak458's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samipak458)](https://holopin.io/@samipak458)
+
  
 <h2 align="left">Support My Work:</h2>
 <p><a href="https://www.buymeacoffee.com/msamiullah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="msamiullah" /></a></p><br><br>
