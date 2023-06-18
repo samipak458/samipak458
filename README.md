@@ -89,7 +89,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">Online AI Text Translator</h3>
         <br />
       <a target="_blank" href="https://github.com/samipak458/Online-AI-Text-Translator">
-            <img src="Images/AiTextTrans.png" width="100%"  alt="Translator"/>
+            <img src="Images/AITextTrans.png" width="100%"  alt="Translator"/>
         </a>
         <br />
         <p align="center">
