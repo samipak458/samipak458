@@ -8,7 +8,7 @@
 
  I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 3rd year of Bachelor's. As of now, I am focused on <b>Web and Cloud technologies </b>. ⚡
  
- <h3 align="center"> Explorer | Web Developer | Open Source Contributor</h3>
+ <h3 align="center"> Explorer | Web Developer | Open Source Developer</h3>
  
  <div>
  <h1>Let's Learn, Grow and Connect</h1>
@@ -68,6 +68,39 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <h1>Projects 💻</h1>
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
+
+<tr>
+  <td width="50%" valign="top">
+      <h3 align="center">ChatGPT MS Teams Bot</h3>
+        <br />
+        <a target="_blank" href="https://github.com/samipak458/ChatGPT-MS-Teams-Bot">
+            <img src="Images/Foodies.png" width="100%" alt="Foodies"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/ChatGPT-MS-Teams-Bot" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>MS Teams, AI & Javascript</strong> - ChatGPT MS Teams Bot : Bot serves as a versatile tool to assist users in various aspects, including chat interactions, meetings, and work-related tasks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Online AI Text Translator</h3>
+        <br />
+      <a target="_blank" href="https://github.com/samipak458/Online-AI-Text-Translator">
+            <img src="Images/AiTextTrans.png" width="100%"  alt="Tourist"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/samipak458/Online-AI-Text-Translator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Html, CSS, Flask & Azure Congnitive Service</strong> - AI Text Translator : Web application that can translate text in real-time and with high accuracy. The user can input text in one language, and the application will automatically detect the language and translate the text into the user's desired language.</p>
+    </td>
+  </tr>
   
   <tr>
     <td width="50%" valign="top">
