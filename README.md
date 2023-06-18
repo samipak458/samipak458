@@ -74,7 +74,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">ChatGPT MS Teams Bot</h3>
         <br />
         <a target="_blank" href="https://github.com/samipak458/ChatGPT-MS-Teams-Bot">
-            <img src="Images/Foodies.png" width="100%" alt="Foodies"/>
+            <img src="Images/MSTeams.jpg" width="100%" alt="Bot"/>
         </a>
         <br />
         <p align="center">
@@ -89,13 +89,13 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">Online AI Text Translator</h3>
         <br />
       <a target="_blank" href="https://github.com/samipak458/Online-AI-Text-Translator">
-            <img src="Images/AiTextTrans.png" width="100%"  alt="Tourist"/>
+            <img src="Images/AiTextTrans.png" width="100%"  alt="Translator"/>
         </a>
         <br />
         <p align="center">
    <br>
   <a href="https://github.com/samipak458/Online-AI-Text-Translator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
         <p><strong>Html, CSS, Flask & Azure Congnitive Service</strong> - AI Text Translator : Web application that can translate text in real-time and with high accuracy. The user can input text in one language, and the application will automatically detect the language and translate the text into the user's desired language.</p>
