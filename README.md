@@ -74,7 +74,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">ChatGPT MS Teams Bot</h3>
         <br />
         <a target="_blank" href="https://github.com/samipak458/ChatGPT-MS-Teams-Bot">
-            <img src="Images/MSTeams.jpg" width="100%" alt="Bot"/>
+            <img src="Images/MSTeams.png" width="100%" alt="Bot"/>
         </a>
         <br />
         <p align="center">
