@@ -6,7 +6,7 @@
  
 ### About Me,
 
- I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 3rd year of Bachelor's. As of now, I am focused on <b>Web and Cloud technologies </b>. ⚡
+ I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my final year of Bachelor's. As of now, I am focused on <b>Web and Cloud technologies </b>. ⚡
  
  <h3 align="center"> Explorer | Web Developer | Open Source Developer</h3>
  
@@ -26,21 +26,19 @@
 
 <img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" >
    
-I'm a front-end developer who is passionate about making open source more accessible, creating technology to elevate
-people, and building community. Some technology I enjoyed working with include Html/CSS, React.js, Node.js, 
-Express.js and MongoDB. Recently, I earned an **"Open Sourcer"** badge from **Microsoft** for outstanding contributions to Microsoft Repositories.
+I'm a **Web** and 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. With a passion for developing websites that solve real-world problems, I have a proven track record of delivering innovative solutions and specialize in identifying and resolving bugs within technical documentation. 
 
-I participated in the first-ever **Student Ambassador Bug Bash**. I improved the readability and usability of the **Microsoft Learn** Docs and Modules that contain GitHub, C#, and Azure Static Web Apps content and service overall!
+I'm passionate about making open source more accessible, creating technology to elevate people, and building community. Some technology I enjoyed working with include Html/CSS, React.js, Node.js, Express.js & MongoDB. 
 
-I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn GitHub and C# module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
+With over 1 year of experience as a **Web** 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open-source community.
+
+I contributed in the **Student Ambassador Bug Bash** where I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn C#, GitHub and Azure Cognitive module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
+
+In addition, as a Web Dev Summer Intern at Folio3, I gained knowledge and experience in implementing the Software Development Life Cycle (SDLC) and developed a platform using HTML, CSS and JavaScript that addressed the challenges faced by women, transgender, and disabled individuals in accessing food resources while ensuring their anonymity and security, resulting in increased access to aid from organizations and donors. I received the 3rd Runner Up Award for Best Project Implementation and Delivery upon completion of the 9-week Summer Internship Program at Folio3 Software.
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
-<br>
-
-### I love to collaborate on any project especially open source projects.
-  
- <br> 
+# Languages & Tools
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -62,10 +60,10 @@ I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and
 </p>
 
 
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
-
 
 <h1>Projects 💻</h1>
+I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+<br><br>
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
 
@@ -211,6 +209,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   </tr>   
 </table>
 
+### I love to collaborate on any project especially open source projects. 
   
 # ⚙️ GitHub Analytics
   
