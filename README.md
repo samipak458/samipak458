@@ -28,7 +28,7 @@
    
 I'm a **Web** and 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. With a passion for developing websites that solve real-world problems, I have a proven track record of delivering innovative solutions and specialize in identifying and resolving bugs within technical documentation. 
 
-I'm passionate about making open source more accessible, creating technology to elevate people, and building community. Some technology I enjoyed working with include Html/CSS, React.js, Node.js, Express.js & MongoDB. 
+I'm passionate about making open source more accessible, creating technology to elevate people, and building community. Some technology I enjoyed working with include Html/CSS, React.js, Node.js, Express.js, MongoDB and Azure. 
 
 With over 1 year of experience as a **Web** 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open-source community.
 
