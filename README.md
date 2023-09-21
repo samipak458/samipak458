@@ -24,7 +24,7 @@
 
 <h1>🛠 About My Tech Stack</h1>
 
-<img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" >
+<a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
    
 I'm a **Web** and 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. With a passion for developing websites that solve real-world problems, I have a proven track record of delivering innovative solutions and specialize in identifying and resolving bugs within technical documentation. 
 
