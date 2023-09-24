@@ -215,8 +215,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   
   <table>
   <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=samipak458&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Samiullah" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=samipak458&show_icons=true&theme=dark" /></td>   
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samipak458&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
   </tr>
 </table>
