@@ -95,6 +95,9 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   <a href="https://github.com/samipak458/Online-AI-Text-Translator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
+  <a href="online-text-translator.azurewebsites.net/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
+  </a>       
       </p>
         <p><strong>Html, CSS, Flask & Azure Congnitive Service</strong> - AI Text Translator : Web application that can translate text in real-time and with high accuracy. The user can input text in one language, and the application will automatically detect the language and translate the text into the user's desired language.</p>
     </td>
