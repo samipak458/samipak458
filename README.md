@@ -237,7 +237,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 https://user-images.githubusercontent.com/52650290/194592069-a598d836-7e29-401b-913d-51746da3f817.mp4
  
 
-# 🏆 HacktoberFest 2022 Badges
+# 🏆 HacktoberFest and MLH 2022 & 2023 Badges
  
 [![An image of @samipak458's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samipak458)](https://holopin.io/@samipak458)
 
