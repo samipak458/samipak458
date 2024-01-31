@@ -6,9 +6,9 @@
  
 ### About Me,
 
- I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my final year of Bachelor's. As of now, I am focused on <b>Web and Cloud technologies </b>. ⚡
+ I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my final year of Bachelor's. As of now, I am focused on <b>Cloud engineering</b>. ⚡
  
- <h3 align="center"> Explorer | Web Developer | Open Source Developer</h3>
+ <h3 align="center"> Explorer | Cloud Engineer | Open Source Developer</h3>
  
  <div>
  <h1>Let's Learn, Grow and Connect</h1>
