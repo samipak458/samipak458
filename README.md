@@ -219,13 +219,14 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   <table>
   <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=samipak458&show_icons=true&theme=dark" /></td>   
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samipak458&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samipak458&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sami" /></td>
   </tr>
+   <tr>
+<td><img src="https://stats.quine.sh/SamiMunir/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SamiMunir" /></td>
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samipak458&theme=dark" alt="Samiullah" /></td>
+ </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samipak458&theme=dark" alt="Samiullah" /></p>
-  </div>
 
 # 📈 Contribution Graph  
 [![Muhammad Samiullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samipak458&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
