@@ -86,16 +86,16 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <td width="50%" valign="top">
       <h3 align="center">Online AI Text Translator</h3>
         <br />
-      <a target="_blank" href="https://github.com/samipak458/Online-AI-Text-Translator">
+      <a target="_blank" href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services">
             <img src="Images/AITextTrans.png" width="100%"  alt="Translator"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/samipak458/Online-AI-Text-Translator" target="_blank">
+  <a href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="online-text-translator.azurewebsites.net/" target="_blank">
+  <a href="https://online-text-translator.azurewebsites.net/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
   </a>       
       </p>
