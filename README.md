@@ -6,9 +6,10 @@
  
 ### About Me,
 
- I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my final year of Bachelor's. As of now, I am focused on <b>Cloud engineering</b>. ⚡
+ My name is <b>Muhammad Samiullah</b>. The Cloud Engineer with a passion for designing, building, and maintaining highly scalable and secure cloud infrastructure. I leverage my web development background to automate deployments, optimize resources, and deliver cost-effective solutions.
+        
  
- <h3 align="center"> Explorer | Cloud Engineer | Open Source Developer</h3>
+ <h3 align="center">  Cloud Engineer | Open Source Developer | Community Builder </h3>
  
  <div>
  <h1>Let's Learn, Grow and Connect</h1>
@@ -26,13 +27,13 @@
 
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
    
-I'm a **Web** and 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. With a passion for developing websites that solve real-world problems, I have a proven track record of delivering innovative solutions and specialize in identifying and resolving bugs within technical documentation. 
+I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Systems Adminstrator at ibex**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
 
-I'm passionate about making open source more accessible, creating technology to elevate people, and building community. Some technology I enjoyed working with include Html/CSS, React.js, Node.js, Express.js, MongoDB and Azure. 
+With **CLF-02, AZ-900 and AZ-104 certifications**, I've proven my dedication to mastering Azure technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
 
-With over 1 year of experience as a **Web** 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open-source community.
+I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open source community.
 
-I contributed in the **Student Ambassador Bug Bash** where I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn C#, GitHub and Azure Cognitive module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the user experience better. 
+I contributed in the **Student Ambassador Bug Bash** where I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn C#, GitHub and Azure Cognitive module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the UX better. 
 
 In addition, as a **Web Dev Summer Intern at Folio3**, I gained knowledge and experience in implementing the Software Development Life Cycle (SDLC) and developed a platform using HTML, CSS and JavaScript that addressed the challenges faced by women, transgender, and disabled individuals in accessing food resources while ensuring their anonymity and security, resulting in increased access to aid from organizations and donors. I received the 3rd Runner Up Award for Best Project Implementation and Delivery upon completion of the 9-week Summer Internship Program at Folio3 Software.
 
