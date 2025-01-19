@@ -21,11 +21,11 @@
 
 </div>
 
+<a href="https://mvp.microsoft.com/en-US/mvp/profile/22c07a7e-1849-47fa-9bd6-02b1a7359865"><img height="5%" width="20%" align="left" src="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png" ></a>
+<br><br><br>
  
  <div align="center">
 
- <a href="https://mvp.microsoft.com/en-US/mvp/profile/22c07a7e-1849-47fa-9bd6-02b1a7359865"><img width="20%" align="left" src="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png" ></a>
-<br>
 
 <h1>🛠 About My Tech Stack</h1>
 
