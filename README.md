@@ -27,15 +27,18 @@
 
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
    
-I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Systems Adminstrator at ibex**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
+I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Cloud Enginner at Atomic Computing**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
 
-With **CLF-02, AZ-900 and AZ-104 certifications**, I've proven my dedication to mastering Azure technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
+With **SAA-C03, CLF-C02, AZ-900 and AZ-104 certifications**, I've proven my dedication to mastering Azure technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
 
 I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open source community.
 
 I contributed in the **Student Ambassador Bug Bash** where I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn C#, GitHub and Azure Cognitive module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the UX better. 
 
-In addition, as a **Web Dev Summer Intern at Folio3**, I gained knowledge and experience in implementing the Software Development Life Cycle (SDLC) and developed a platform using HTML, CSS and JavaScript that addressed the challenges faced by women, transgender, and disabled individuals in accessing food resources while ensuring their anonymity and security, resulting in increased access to aid from organizations and donors. I received the 3rd Runner Up Award for Best Project Implementation and Delivery upon completion of the 9-week Summer Internship Program at Folio3 Software.
+My tech journey began with a **Web Dev Summer Internship at Folio3**, where I gained hands-on experience in the Software Development Life Cycle (SDLC). I developed a platform using HTML, CSS, and JavaScript, which addressed challenges faced by underserved communities, earning me the 3rd Runner-Up Award for Best Project Implementation and Delivery.
+
+Beyond my technical work, I am passionate about community building. As the lead of the Microsoft Learn Student Community's citywide chapter, I organized successful events in collaboration with top tech companies, connecting students with practical knowledge and career opportunities in the tech industry. I am also honored to be a recipient of the prestigious **Microsoft Most Valuable Professional Award**, which recognizes my consistent contributions to the tech community and my commitment to empowering others through knowledge sharing and innovation.
+
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
