@@ -42,6 +42,8 @@ Beyond my technical work, I am passionate about community building. As the lead 
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
+<a href="https://mvp.microsoft.com/en-US/mvp/profile/22c07a7e-1849-47fa-9bd6-02b1a7359865"><img width="40%" align="left" src="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png" ></a>
+
 # Languages & Tools
 
 <p align="center"> 
