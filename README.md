@@ -20,12 +20,17 @@
 <a  href="https://github.com/samipak458?wt.mc_id=studentamb_202028"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
+
  
  <div align="center">
+
+ <a href="https://mvp.microsoft.com/en-US/mvp/profile/22c07a7e-1849-47fa-9bd6-02b1a7359865"><img width="20%" align="left" src="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png" ></a>
+<br>
 
 <h1>🛠 About My Tech Stack</h1>
 
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
+
    
 I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Cloud Enginner at Atomic Computing**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
 
@@ -42,7 +47,6 @@ Beyond my technical work, I am passionate about community building. As the lead 
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
-<a href="https://mvp.microsoft.com/en-US/mvp/profile/22c07a7e-1849-47fa-9bd6-02b1a7359865"><img width="40%" align="left" src="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png" ></a>
 
 # Languages & Tools
 
