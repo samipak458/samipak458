@@ -32,7 +32,7 @@
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
 
    
-I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Cloud Enginner at Atomic Computing**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
+I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Cloud Engineer at Atomic Computing**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
 
 With **SAA-C03, CLF-C02, AZ-900 and AZ-104 certifications**, I've proven my dedication to mastering Azure technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
 
@@ -42,7 +42,9 @@ I contributed in the **Student Ambassador Bug Bash** where I found **five bugs**
 
 My tech journey began with a **Web Dev Summer Internship at Folio3**, where I gained hands-on experience in the Software Development Life Cycle (SDLC). I developed a platform using HTML, CSS, and JavaScript, which addressed challenges faced by underserved communities, earning me the 3rd Runner-Up Award for Best Project Implementation and Delivery.
 
-Beyond my technical work, I am passionate about community building. As the lead of the Microsoft Learn Student Community's citywide chapter, I organized successful events in collaboration with top tech companies, connecting students with practical knowledge and career opportunities in the tech industry. I am also honored to be a recipient of the prestigious **Microsoft Most Valuable Professional Award**, which recognizes my consistent contributions to the tech community and my commitment to empowering others through knowledge sharing and innovation.
+Beyond my technical work, I am passionate about community building. As the lead of the Microsoft Learn Student Community's citywide chapter, I organized successful events in collaboration with top tech companies, connecting students with practical knowledge and career opportunities in the tech industry. 
+
+I am also honored to be a recipient of the prestigious **Microsoft Most Valuable Professional Award**, which recognizes my consistent contributions to the tech community and my commitment to empowering others through knowledge sharing and innovation.
 
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
