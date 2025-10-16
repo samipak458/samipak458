@@ -1,7 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
 
 
-<h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"> Muhammad Samiullah </a> </h1>
+<h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/msamiullah-dev/" target="_blank"> Muhammad Samiullah </a> </h1>
 <img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif" >
  
 ### About Me,
