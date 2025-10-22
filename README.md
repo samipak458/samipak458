@@ -9,7 +9,7 @@
  My name is <b>Muhammad Samiullah</b>. The Cloud Engineer with a passion for designing, building, and maintaining highly scalable and secure cloud infrastructure. I leverage my web development background to automate deployments, optimize resources, and deliver cost-effective solutions.
         
  
- <h3 align="center">  Cloud Engineer | Open Source Developer | Community Builder </h3>
+ <h3 align="center">  Solution Engineer | Open Source Developer | Community Builder </h3>
  
  <div>
  <h1>Let's Learn, Grow and Connect</h1>
@@ -32,7 +32,7 @@
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
 
    
-I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Cloud Engineer at Atomic Computing**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
+I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Solution Engineer at Mazik Global**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.  My work includes cloud services, AI service adoption, automation, cost optimization, and operational excellence, enabling teams to get the most value from their technology.
 
 With **SAA-C03, CLF-C02, AZ-900 and AZ-104 certifications**, I've proven my dedication to mastering Azure technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
 
