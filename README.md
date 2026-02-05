@@ -6,7 +6,7 @@
  
 ### About Me,
 
- My name is <b>Muhammad Samiullah</b>. The Cloud Engineer with a passion for designing, building, and maintaining highly scalable and secure cloud infrastructure. I leverage my web development background to automate deployments, optimize resources, and deliver cost-effective solutions.
+ My name is <b>Muhammad Samiullah</b>. I work at the intersection of cloud engineering, AI adoption, and technical leadership, helping organizations evolve into frontier AI firms capable of building, scaling, and governing modern AI systems. As a Microsoft MVP in Azure and Developer Technologies, I’m recognized for advancing developer communities, delivering deep technical expertise, and enabling teams to adopt emerging technologies with confidence and clarity.
         
  
  <h3 align="center">  Solution Engineer | Open Source Developer | Community Builder </h3>
@@ -32,9 +32,11 @@
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
 
    
-I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Solution Engineer at Mazik Global**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.  My work includes cloud services, AI service adoption, automation, cost optimization, and operational excellence, enabling teams to get the most value from their technology.
+I'm a passionate **Engineer** with a background in web development and DevOps. I love building and maintaining secure, scalable cloud infrastructure that empowers applications. Currently, I'm working as a **Solution Engineer at Mazik Global**, where I lead initiatives that accelerate enterprise AI adoption, expand automation capabilities, and modernize cloud platforms. My work spans architecture design, platform reliability, DevOps transformation, and integrating AI into operational workflows. I focus on translating complex cloud and AI capabilities into practical, measurable outcomes, not theoretical implementations.
 
-With **SAA-C03, CLF-C02, AZ-900 and AZ-104 certifications**, I've proven my dedication to mastering Azure technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
+Previously, as a **Microsoft for Startups Expert**, I supported founders across the product lifecycle, helping them design scalable architectures, optimize performance, and launch production-ready cloud solutions. My engineering experience includes cloud migration, well-architected governance, incident response, and secure infrastructure design in high-demand enterprise environments.
+
+With **SAA-C03, CLF-C02, AZ-900, AZ-700, and AZ-104 certifications**, I've proven my dedication to mastering Azure & AWS technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
 
 I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open source community.
 
