@@ -38,13 +38,11 @@ Previously, as a **Microsoft for Startups Expert**, I supported founders across 
 
 With **SAA-C03, CLF-C02, AZ-900, AZ-700, and AZ-104 certifications**, I've proven my dedication to mastering Azure & AWS technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
 
-I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open source community.
-
-I contributed in the **Student Ambassador Bug Bash** where I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn C#, GitHub and Azure Cognitive module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the UX better. 
+I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open source community. I also contributed to the **Student Ambassador Bug Bash**, where I found **Eight bugs** in Microsoft Documentation. I make documentation better by clearing the confusing parts of the docs, which bridges the gap in the existing Microsoft Learn doc, and I also spot errors that are not defined in the docs. By identifying these bugs, I make the UX better. 
 
 My tech journey began with a **Web Dev Summer Internship at Folio3**, where I gained hands-on experience in the Software Development Life Cycle (SDLC). I developed a platform using HTML, CSS, and JavaScript, which addressed challenges faced by underserved communities, earning me the 3rd Runner-Up Award for Best Project Implementation and Delivery.
 
-Beyond my technical work, I am passionate about community building. As the lead of the Microsoft Learn Student Community's citywide chapter, I organized successful events in collaboration with top tech companies, connecting students with practical knowledge and career opportunities in the tech industry. 
+Beyond my technical work, I am passionate about community building. As the lead of the **Microsoft Student Community's Karachi** chapter, I organized successful events in collaboration with top tech companies, connecting students with practical knowledge and career opportunities in the tech industry. 
 
 I am also honored to be a recipient of the prestigious **Microsoft Most Valuable Professional Award**, which recognizes my consistent contributions to the tech community and my commitment to empowering others through knowledge sharing and innovation.
 
